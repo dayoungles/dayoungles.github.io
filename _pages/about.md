@@ -8,7 +8,7 @@ This is my first github blog. I've been hopped for a while from Tistory to such 
 
 ## Profile
 
-- Dayoungle(다영글, which means "Be a fully ripe person" ) Jun
+- Da:youngle[da: /jʌŋ.ɡəl] which means "Be a fully ripe person"
 - South Korean
 - Technical trainer
 - Developer who loves to communicate with others
