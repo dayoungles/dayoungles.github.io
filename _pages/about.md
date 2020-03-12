@@ -20,5 +20,5 @@ This is my first github blog. I've been hopped for a while from Tistory to such 
 - Making, fixing, solving a problem
 - Learning language
 
-## Experience
+## Job Experience
 - Refer to [LinkedIn](https://www.linkedin.com/in/dayoungle-jun)
