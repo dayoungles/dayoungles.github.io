@@ -8,17 +8,17 @@ This is my first github blog. I've been hopped for a while from Tistory to such 
 
 ## Profile
 
-- Da:youngle[da: /jʌŋ.ɡəl] which means "Be a fully ripe person"
+- Da:Youngle[da: /jʌŋ.ɡəl] which means **Be a fully ripe person**
 - South Korean
-- Technical trainer
+- Support sustainable zero waste
 - Developer who loves to communicate with others
-
+- Start morning at 5am
+- Maker: software, fixing stuff, knitting, crochet, cook, whatever with hand
 
 ## What I Love
-- The fluffies
-- Making: software, fixing stuff, knitting, crochet, cook, whatever with hand.  
+- The fluffies...!
+- Making, fixing, solving a problem
 - Learning language
-- Leaving bed at 5am 
 
 ## Experience
 - Refer to [LinkedIn](https://www.linkedin.com/in/dayoungle-jun)
