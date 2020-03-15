@@ -15,10 +15,10 @@ categories: [Algorithm]
 "abc" -> 홀수인 캐릭터가 세개라서 불가능
 "ab" -> 홀수인 캐릭터가 두개라서 불가능
 ```
-space complexity
+Space complexity:
 HashMap에 집어넣고 카운트를 하면서 전체 문자열의 길이만큼 공간을 확보(O(n))
 
-time complexity
+Time complexity:
 HashMap에 집어넣는데 O(n), 다 집어넣고 나서 foreach문을 돌면서 다시 짝/홀수 여부를 확인해야 하기 떄문에 여기서도 최악의 경우 O(n). 최대 O(n)
 
 작성한 코드는 요기에: [my leetcode repo](https://github.com/dayoungles/leet_code/commit/eab56ddeb6cf26225a051dffb2d2a43d68157ddd#diff-1acd20410396659c149d5b1b45f147c9)
