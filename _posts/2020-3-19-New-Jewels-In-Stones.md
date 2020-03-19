@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jewels and Stones
-categories: [Algorithm]
+categories: [Leetcode]
 ---
 
 오늘의 알고리즘은 String 2개가 주어진 상태에서 J에 포함되어 있는 character가 S에 몇번 존재하는지를 확인하는 것이었다.

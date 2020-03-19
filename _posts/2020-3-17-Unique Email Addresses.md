@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unique Email Addresses
-categories: [Algorithm]
+categories: [Leetcode]
 ---
 
 오늘의 알고리즘은 email로 구성된 String 리스트를 주고, dot(.)과 plus(+) 기호의 예외 처리를 한 후 실제 unique한 email 주소의 개수를 리턴하는 것이었다.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Palindrome permutation
-categories: [Algorithm]
+categories: [Leetcode]
 ---
 
 오늘의 알고리즘은 주어진 문자열의 순열이 palindrome(회문: 수박수박수)을 구성할 수 있는가 하는 문제였다.

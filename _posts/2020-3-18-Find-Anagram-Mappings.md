@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Find Anagram Mappings
-categories: [Algorithm]
+categories: [Leetcode]
 ---
 
 오늘의 알고리즘은 주어진 array 2개를 비교하여 두 번째 배열의 아이템이 첫 번째 배열의 몇 번째 아이템이었는지 각각 확인하고 순서를 다시 int 배열로 만드는 것이었다.
