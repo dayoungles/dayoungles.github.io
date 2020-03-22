@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unique Morse Code Words
+title: Single row keyboard 
 categories: [Leetcode]
 ---
 
