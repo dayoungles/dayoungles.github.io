@@ -107,7 +107,7 @@ O(n^2)
 ```
 
 
-*Space complexity*
+**Space complexity**
 
 O(1) : return 하는 새로운 배열 하나 
 
