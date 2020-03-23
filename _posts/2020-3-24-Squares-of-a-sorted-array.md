@@ -112,12 +112,9 @@ O(1) : return 하는 새로운 배열 하나
 
 **Time complexity**
 O(n) : A의 길이만큼 한번 실행 
-
-
 word의 자리수 만큼 O(word.length) 키보드의 indexOf를 할 떄 주어진 키보드 스트링 길이만큼 순회해야 하니 O(keyboard.length)
 
-
-
+---
 **[Source code]**
 [github repo](https://github.com/dayoungles/leet_code/commit/18926050e310edbbf3c55340ddb28428d9973cb3)
 
