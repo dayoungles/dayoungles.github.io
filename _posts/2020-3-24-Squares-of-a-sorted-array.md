@@ -108,7 +108,7 @@ O(n^2)
 
 
 **Space complexity**
-O(1) : return 하는 새로운 배열 하나 
+O(n) : return 하는 새로운 배열 크기 
 
 **Time complexity**
 O(n) : A의 길이만큼 한번 실행 
