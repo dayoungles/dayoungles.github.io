@@ -72,13 +72,12 @@ while(len1 +1 >= idx1 || len2 +1 >= idx2) {...}
 
 
 **Space complexity**
-
-O((num1.length || num2.length)+1) 가장 긴 스트링에서 올림을 추가하게 되면 + 1 
+O((num1.length \|\| num2.length)+1) 가장 긴 스트링에서 올림을 추가하게 되면 + 1 
 
 
 **Time complexity**
 
-O((num1.length || num2.length)+1)
+O((num1.length \|\| num2.length)+1)
 
 ---
 
